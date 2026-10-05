@@ -11,7 +11,7 @@ Seçilen konuyla LinkedIn'de yayına hazır makaleyi ve onu duyuracak/taşıyaca
 ## Inputs
 - `outputs/YYYY-MM-DD_linkedin-paylasim_konu-arastirmasi.md` — önerilen konu, hook'lar, kaynaklar
 - `knowledge/BRAND.md` — ses tonu
-- `knowledge/AUDIENCE.md` — kitlenin dili
+- `knowledge/AUDIENCE.md` — üç okur segmenti (üst düzey yönetici, orta kademe yönetici, mühendis)
 - `MEMORY.md` — işe yarayan hook, format, uzunluk
 - `data/imports/` — insanın kişisel notları / saha hikayesi (varsa)
 
@@ -38,7 +38,7 @@ Seçilen konuyla LinkedIn'de yayına hazır makaleyi ve onu duyuracak/taşıyaca
    - Dış link varsa gönderide değil ilk yorumda paylaşılmasını öner (hipotez — MEMORY.md ile doğrula)
 6. 2 alternatif başlık ve 2 alternatif hook ver (A/B seçimi insana).
 7. Görsel brief'i yaz: kapak görseli fikri veya 5–7 sayfalık karusel/PDF taslağı (sayfa başlıkları).
-8. Kalite kontrol listesinden geçir, sonra çıktıyı kaydet ve insan onayına sun (journal'a "onay bekliyor" girdisi).
+8. Taslağı kaydet ve **EDITORIAL_REVIEW** skill'ini çalıştır (dört geçişli düzenleme). Nihai metni insan onayına sun (journal'a "onay bekliyor" girdisi).
 
 ## Outputs
 - `outputs/YYYY-MM-DD_linkedin-paylasim_makale.md` şu bölümlerle:
@@ -64,4 +64,5 @@ Seçilen konuyla LinkedIn'de yayına hazır makaleyi ve onu duyuracak/taşıyaca
 
 ## Integration
 - Girdi: TOPIC_RESEARCH çıktısı.
+- Çıktı: EDITORIAL_REVIEW'e taslak olarak gider; insana yalnızca editoryal kontrolden geçmiş metin sunulur.
 - Çıktı insan onayından sonra yayınlanır; yayın tarihi ve performansı `data/imports/linkedin-stats.csv`'ye girilir ve PERFORMANCE_REVIEW tarafından analiz edilir.

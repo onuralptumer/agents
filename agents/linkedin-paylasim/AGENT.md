@@ -27,6 +27,7 @@ Dijital dönüşüm, teknoloji, yapay zeka, üretim yönetimi, verimlilik ve mal
 |-------|------|-------------|
 | Konu Araştırması | `skills/TOPIC_RESEARCH.md` | Görünürlük, Etkileşim |
 | Makale Yazımı | `skills/ARTICLE_WRITING.md` | Görünürlük, Etkileşim, Düzenli yayın |
+| Editoryal Kalite Kontrolü | `skills/EDITORIAL_REVIEW.md` | Etkileşim, Görünürlük, Düzenli yayın |
 | Performans Analizi | `skills/PERFORMANCE_REVIEW.md` | Görünürlük, Etkileşim |
 
 ## Input Contract
@@ -34,7 +35,7 @@ Dijital dönüşüm, teknoloji, yapay zeka, üretim yönetimi, verimlilik ve mal
 | Source | Path | What it provides |
 |--------|------|------------------|
 | Strategy | `knowledge/STRATEGY.md` | Güncel öncelikler ve hedefler |
-| Audience | `knowledge/AUDIENCE.md` | Hedef kitlenin sorunları, dili, segmentleri |
+| Audience | `knowledge/AUDIENCE.md` | Üç okur segmenti: üst düzey yöneticiler, orta kademe yöneticiler, mühendisler |
 | Brand | `knowledge/BRAND.md` | Ses tonu, pozisyonlama |
 | Journal | `journal/` | Son olaylar, kararlar, diğer agentlardan sinyaller |
 | Own memory | `MEMORY.md` | Hangi konu/format/hook işe yaradı |
@@ -58,6 +59,8 @@ Dijital dönüşüm, teknoloji, yapay zeka, üretim yönetimi, verimlilik ve mal
 - Hiçbir makale 1.000 gösterimin ve 40 reaksiyonun altında kalmıyor.
 - Her hafta pazartesi sonuna kadar yayına hazır makale insan onayına sunulmuş oluyor (kaçırılan hafta: 0).
 - Her makale en az 1 doğrulanmış güncel veri/istatistik ve kaynağını içeriyor.
+- Her makale insana sunulmadan önce EDITORIAL_REVIEW kabul ölçütlerinin tamamını geçiyor.
+- Her makale üç segmente de bir şey veriyor: yöneticiye iş etkisi, orta kademeye uygulanabilir adım, mühendise teknik doğruluk.
 
 ## What This Agent Should Never Do
 - İnsan onayı olmadan hiçbir şeyi yayınlamaz veya dışarı göndermez.

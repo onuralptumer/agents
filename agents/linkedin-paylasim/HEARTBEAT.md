@@ -25,11 +25,11 @@ Haftalık döngü, her pazartesi sabahı.
 Karar ağacı (sırayla):
 1. Analiz edilmemiş performans verisi var mı? → **PERFORMANCE_REVIEW** (önce bu)
 2. Bu hafta için konu araştırması yok mu? → **TOPIC_RESEARCH**
-3. Konu var ama makale yok mu? → **ARTICLE_WRITING** (en yüksek puanlı konu ile)
+3. Konu var ama makale yok mu? → **ARTICLE_WRITING** (en yüksek puanlı konu ile) → **EDITORIAL_REVIEW**
 4. Makale hazır ve onay bekliyor mu? → İnsana hatırlat, yeni bir şey üretme.
 5. Hepsi tamam mı? → Gelecek hafta için yedek konu listesini güncelle (TOPIC_RESEARCH, hafif mod).
 
-Not: Haftalık döngüde PERFORMANCE_REVIEW → TOPIC_RESEARCH → ARTICLE_WRITING zincir halinde çalışabilir; bu bir hafta = bir makale hedefine hizmet ettiği için kural istisnasıdır.
+Not: Haftalık döngüde PERFORMANCE_REVIEW → TOPIC_RESEARCH → ARTICLE_WRITING → EDITORIAL_REVIEW zincir halinde çalışabilir; bu bir hafta = bir makale hedefine hizmet ettiği için kural istisnasıdır.
 
 ### 4. Log to Journal
 `journal/entries/YYYY-MM-DD_HHMM.md` dosyasına (`templates/JOURNAL_ENTRY.md` formatıyla):

@@ -1,30 +1,36 @@
 # Audience
 
 ## Who They Are
-<!-- Demographics, psychographics, role -->
--
+Üretim, sanayi ve teknoloji odaklı şirketlerde çalışan, LinkedIn'i mesleki gelişim ve sektör gündemini takip etmek için kullanan profesyoneller. Üç ana segment: üst düzey yöneticiler, orta kademe yöneticiler ve mühendisler.
 
 ## Pain Points
-<!-- What keeps them up at night? Use their exact words when possible. -->
+<!-- Kendi gözlemlerinle ve yorumlardaki gerçek ifadelerle güncelle. -->
 -
 
 ## Goals
-<!-- What are they trying to achieve? -->
+<!-- Kendi gözlemlerinle güncelle. -->
 -
 
 ## Language
-<!-- How do they talk about their problems? Key phrases they use. -->
+<!-- Yorumlarda ve sohbetlerde kullandıkları gerçek ifadeleri buraya ekle. -->
 -
 
 ## Segments
-<!-- If you have multiple audience segments, define each separately -->
 
-### Segment 1: [Name]
-- Who:
-- Pain:
-- Goal:
+### Segment 1: Üst Düzey Yöneticiler (C-level, genel müdür, fabrika müdürü, direktör)
+- Who: Strateji, bütçe ve yatırım kararı veren yöneticiler
+- Okuma beklentisi: Stratejik etki, maliyet/kâr, risk ve rekabet açısından kısa ve net sonuç
+- Pain: <!-- gerçek gözlemle doldur -->
+- Goal: <!-- gerçek gözlemle doldur -->
 
-### Segment 2: [Name]
-- Who:
-- Pain:
-- Goal:
+### Segment 2: Orta Kademe Yöneticiler (üretim/bakım/kalite/planlama/IT müdürleri, ekip liderleri)
+- Who: Stratejiyi sahada uygulayan, ekip ve süreç yöneten yöneticiler
+- Okuma beklentisi: Uygulanabilir çerçeve, adımlar, ölçüm ve ekip yönetimi
+- Pain: <!-- gerçek gözlemle doldur -->
+- Goal: <!-- gerçek gözlemle doldur -->
+
+### Segment 3: Mühendisler (üretim, endüstri, yazılım, otomasyon, veri)
+- Who: Teknolojiyi ve süreçleri tasarlayan ve hayata geçiren teknik profesyoneller
+- Okuma beklentisi: Teknik doğruluk, mekanizma, gerçek vaka ve araçlar; pazarlama dili değil
+- Pain: <!-- gerçek gözlemle doldur -->
+- Goal: <!-- gerçek gözlemle doldur -->

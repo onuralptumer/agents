@@ -34,7 +34,7 @@ En güçlü konular genellikle iki sütunun kesişimindedir (ör. "Yapay zeka il
    - Güvenilir raporlar (McKinsey, BCG, Deloitte, Gartner, WEF, OECD, TÜİK, sektör dernekleri)
    - LinkedIn'de ve sektör medyasında tartışılan başlıklar
    - Türkiye'deki üretim ve KOBİ gündemi
-4. 5–7 aday konu oluştur. Her biri için: çalışma başlığı, tek cümlelik ana fikir, konu sütun(lar)ı, hedef kitle segmenti, dayanak veri/kaynak.
+4. 5–7 aday konu oluştur. Her biri için: çalışma başlığı, tek cümlelik ana fikir, konu sütun(lar)ı, ana segment (üst düzey yönetici / orta kademe yönetici / mühendis) ve diğer iki segmente ne verdiği, dayanak veri/kaynak.
 5. Her adayı 1–10 arası puanla:
    - **Güncellik:** Şu an konuşuluyor mu? Yeni bir gelişmeye dayanıyor mu?
    - **Kitle acısı:** Hedef kitlenin somut bir sorununa (maliyet, verim, kaynak, risk) dokunuyor mu?
