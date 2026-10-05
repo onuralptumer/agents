@@ -8,6 +8,7 @@ Multi-agent system powered by markdown files and Claude Code.
 |-------|------|---------|
 | Standard Template | `agents/standard-agent/` | Copy this to create any new agent |
 | LinkedIn Paylaşım | `agents/linkedin-paylasim/` | Haftalık LinkedIn makalesi: konu araştırması + yayına hazır makale |
+| Seyahat Tarifleri Paylaşım | `agents/seyahattarifleri-paylasim/` | Seyahat notlarından TR + EN blog yazısı, görsel promptları ve yerleşimleri |
 
 ## Key Directories
 
