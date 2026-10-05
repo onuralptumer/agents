@@ -141,6 +141,6 @@ Sizin tesisinizde enerji tüketimini hangi seviyede görebiliyorsunuz: fabrika, 
 - Makale ve gönderi metnindeki rakamlar birbiriyle aynı (%20, %20–30, %10).
 - Kapanış sorusu spesifik ve üç segmentin de cevaplayabileceği bir soru.
 - Engagement bait yok. Emoji yalnızca gönderideki numaralı listede.
-- **Uzunluk:** Makale gövdesi yaklaşık 600 kelime, hedef aralığın alt sınırında. Kişisel deneyim eklenirse aralığın içine girer.
+- **Uzunluk:** Makale gövdesi yaklaşık 480 kelime; ARTICLE_WRITING'in 600–1.000 hedefinin altında. Dolgu eklemek EDITORIAL_REVIEW kurallarına aykırı olduğu için uzatılmadı. Gerçek bir saha deneyimi eklenirse metin ~550–600 kelimeye çıkar. Kısa makalenin performansı ilk verilerle değerlendirilmeli.
 
 *Not: Bu kontrol, metni yazan aynı agent'ın ikinci okumasıdır; gerçek bir okur testi değildir.*
